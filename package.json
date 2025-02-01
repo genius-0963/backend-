@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend project for study ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "saurabh kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
